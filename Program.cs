@@ -4,15 +4,15 @@ namespace Algorithms
 {
     internal static class Program
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
-            Hashtable hashtable = new Hashtable();
-            var value = hashtable.Get("Faridun");
-            Console.WriteLine(value);
-            
-            hashtable.Put("Faridun", "Berdiev");
-            value = hashtable.Get("Faridun");
-            Console.WriteLine(value);
+            PriorityQueue priorityQueue = new PriorityQueue();
+            priorityQueue.Enqueue("Faridun");
+            priorityQueue.Enqueue("Kamila");
+            priorityQueue.Enqueue("Nisso");
+            Console.WriteLine(priorityQueue.Dequeue());
+            Console.WriteLine(priorityQueue.Dequeue());
+            Console.WriteLine(priorityQueue.Dequeue());
         }
     }
 }

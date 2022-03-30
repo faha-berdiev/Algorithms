@@ -1,0 +1,16 @@
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\bin\Debug\net5\Algorithms.exe
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\bin\Debug\net5\Algorithms.deps.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\bin\Debug\net5\Algorithms.runtimeconfig.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\bin\Debug\net5\Algorithms.runtimeconfig.dev.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\bin\Debug\net5\Algorithms.dll
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\bin\Debug\net5\ref\Algorithms.dll
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\bin\Debug\net5\Algorithms.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\Algorithms.csproj.AssemblyReference.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\Algorithms.AssemblyInfoInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\Algorithms.AssemblyInfo.cs
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\Algorithms.csproj.CoreCompileInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\Algorithms.dll
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\ref\Algorithms.dll
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\Algorithms.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Console\Algorithms\obj\Debug\net5\Algorithms.genruntimeconfig.cache
